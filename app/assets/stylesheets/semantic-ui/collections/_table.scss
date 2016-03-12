@@ -659,10 +659,10 @@
 
 /* Blue */
 .ui.blue.table {
-  border-top: 0.2em solid #2185d0;
+  border-top: 0.2em solid $blue;
 }
 .ui.inverted.blue.table {
-  background-color: #2185d0 !important;
+  background-color: $blue !important;
   color: #ffffff !important;
 }
 
