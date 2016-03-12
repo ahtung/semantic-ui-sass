@@ -704,19 +704,19 @@
 
 /* Grey */
 .ui.grey.table {
-  border-top: 0.2em solid #767676;
+  border-top: 0.2em solid $grey;
 }
 .ui.inverted.grey.table {
-  background-color: #767676 !important;
+  background-color: $grey !important;
   color: #ffffff !important;
 }
 
 /* Black */
 .ui.black.table {
-  border-top: 0.2em solid #1b1c1d;
+  border-top: 0.2em solid $black;
 }
 .ui.inverted.black.table {
-  background-color: #1b1c1d !important;
+  background-color: $black !important;
   color: #ffffff !important;
 }
 

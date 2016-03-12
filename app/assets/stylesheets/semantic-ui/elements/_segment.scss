@@ -439,7 +439,7 @@
   -webkit-animation-iteration-count: infinite;
           animation-iteration-count: infinite;
   border-radius: 500rem;
-  border-color: #767676 rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1);
+  border-color: $grey rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1);
   border-style: solid;
   border-width: 0.2em;
   box-shadow: 0px 0px 0px 1px transparent;
@@ -602,19 +602,19 @@
 
 /* Grey */
 .ui.grey.segment:not(.inverted) {
-  border-top: 2px solid #767676;
+  border-top: 2px solid $grey;
 }
 .ui.inverted.grey.segment {
-  background-color: #767676 !important;
+  background-color: $grey !important;
   color: #ffffff !important;
 }
 
 /* Black */
 .ui.black.segment:not(.inverted) {
-  border-top: 2px solid #1b1c1d;
+  border-top: 2px solid $black;
 }
 .ui.inverted.black.segment {
-  background-color: #1b1c1d !important;
+  background-color: $black !important;
   color: #ffffff !important;
 }
 
@@ -656,7 +656,7 @@
 }
 .ui.inverted.segment,
 .ui.primary.inverted.segment {
-  background: #1b1c1d;
+  background: $black;
   color: rgba(255, 255, 255, 0.9);
 }
 

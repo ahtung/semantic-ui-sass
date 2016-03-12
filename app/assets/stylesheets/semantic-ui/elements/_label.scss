@@ -961,8 +961,8 @@ a.ui.basic.brown.label:hover {
 
 .ui.grey.labels .label,
 .ui.grey.label {
-  background-color: #767676 !important;
-  border-color: #767676 !important;
+  background-color: $grey !important;
+  border-color: $grey !important;
   color: #ffffff !important;
 }
 
@@ -988,8 +988,8 @@ a.ui.grey.label:hover {
 /* Basic */
 .ui.basic.grey.label {
   background-color: #ffffff !important;
-  color: #767676 !important;
-  border-color: #767676 !important;
+  color: $grey !important;
+  border-color: $grey !important;
 }
 .ui.basic.grey.labels a.label:hover,
 a.ui.basic.grey.label:hover {
@@ -1002,8 +1002,8 @@ a.ui.basic.grey.label:hover {
 
 .ui.black.labels .label,
 .ui.black.label {
-  background-color: #1b1c1d !important;
-  border-color: #1b1c1d !important;
+  background-color: $black !important;
+  border-color: $black !important;
   color: #ffffff !important;
 }
 
@@ -1029,8 +1029,8 @@ a.ui.black.label:hover {
 /* Basic */
 .ui.basic.black.label {
   background-color: #ffffff !important;
-  color: #1b1c1d !important;
-  border-color: #1b1c1d !important;
+  color: $black !important;
+  border-color: $black !important;
 }
 .ui.basic.black.labels a.label:hover,
 a.ui.basic.black.label:hover {

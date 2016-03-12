@@ -19,7 +19,7 @@
   position: absolute;
   top: 0px;
   right: 0px;
-  
+
 /* Fixes content being squished when inline (moz only) */
   min-width: -webkit-min-content;
   min-width: -moz-min-content;
@@ -237,14 +237,14 @@
 
 /* Inverted Arrow Color */
 .ui.inverted.bottom.popup:before {
-  background: #1b1c1d;
+  background: $black;
 }
 .ui.inverted.right.center.popup:before,
 .ui.inverted.left.center.popup:before {
-  background: #1b1c1d;
+  background: $black;
 }
 .ui.inverted.top.popup:before {
-  background: #1b1c1d;
+  background: $black;
 }
 
 
@@ -327,7 +327,7 @@
 
 /* Inverted colors  */
 .ui.inverted.popup {
-  background: #1b1c1d;
+  background: $black;
   color: #ffffff;
   border: none;
   box-shadow: none;
@@ -337,7 +337,7 @@
   color: #ffffff;
 }
 .ui.inverted.popup:before {
-  background-color: #1b1c1d;
+  background-color: $black;
   box-shadow: none !important;
 }
 

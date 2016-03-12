@@ -116,7 +116,7 @@
   font-size: 4rem;
   font-weight: normal;
   line-height: 1em;
-  color: #1b1c1d;
+  color: $black;
   text-transform: uppercase;
   text-align: center;
 }
@@ -390,7 +390,7 @@
 .ui.grey.statistics .statistic > .value,
 .ui.statistics .grey.statistic > .value,
 .ui.grey.statistic > .value {
-  color: #767676;
+  color: $grey;
 }
 
 /*--------------
