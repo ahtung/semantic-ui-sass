@@ -879,8 +879,8 @@ a.ui.basic.purple.label:hover {
 
 .ui.pink.labels .label,
 .ui.pink.label {
-  background-color: #e03997 !important;
-  border-color: #e03997 !important;
+  background-color: $pink !important;
+  border-color: $pink !important;
   color: #ffffff !important;
 }
 
@@ -906,8 +906,8 @@ a.ui.pink.label:hover {
 /* Basic */
 .ui.basic.pink.label {
   background-color: #ffffff !important;
-  color: #e03997 !important;
-  border-color: #e03997 !important;
+  color: $pink !important;
+  border-color: $pink !important;
 }
 .ui.basic.pink.labels a.label:hover,
 a.ui.basic.pink.label:hover {

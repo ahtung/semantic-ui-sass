@@ -1331,8 +1331,8 @@ Floated Menu / Item
 }
 .ui.menu .pink.active.item,
 .ui.pink.menu .active.item {
-  border-color: #e03997 !important;
-  color: #e03997 !important;
+  border-color: $pink !important;
+  color: $pink !important;
 }
 .ui.menu .brown.active.item,
 .ui.brown.menu .active.item {
@@ -1576,7 +1576,7 @@ Floated Menu / Item
 /* Pink */
 .ui.inverted.menu .pink.active.item,
 .ui.inverted.pink.menu {
-  background-color: #e03997;
+  background-color: $pink;
 }
 .ui.inverted.pink.menu .item:before {
   background-color: rgba(34, 36, 38, 0.1);

@@ -584,10 +584,10 @@
 
 /* Pink */
 .ui.pink.segment:not(.inverted) {
-  border-top: 2px solid #e03997;
+  border-top: 2px solid $pink;
 }
 .ui.inverted.pink.segment {
-  background-color: #e03997 !important;
+  background-color: $pink !important;
   color: #ffffff !important;
 }
 
