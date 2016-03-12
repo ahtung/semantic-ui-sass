@@ -668,10 +668,10 @@
 
 /* Violet */
 .ui.violet.table {
-  border-top: 0.2em solid #6435c9;
+  border-top: 0.2em solid $violet;
 }
 .ui.inverted.violet.table {
-  background-color: #6435c9 !important;
+  background-color: $violet !important;
   color: #ffffff !important;
 }
 

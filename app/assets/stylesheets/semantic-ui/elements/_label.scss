@@ -797,8 +797,8 @@ a.ui.basic.blue.label:hover {
 
 .ui.violet.labels .label,
 .ui.violet.label {
-  background-color: #6435c9 !important;
-  border-color: #6435c9 !important;
+  background-color: $violet !important;
+  border-color: $violet !important;
   color: #ffffff !important;
 }
 
@@ -824,8 +824,8 @@ a.ui.violet.label:hover {
 /* Basic */
 .ui.basic.violet.label {
   background-color: #ffffff !important;
-  color: #6435c9 !important;
-  border-color: #6435c9 !important;
+  color: $violet !important;
+  border-color: $violet !important;
 }
 .ui.basic.violet.labels a.label:hover,
 a.ui.basic.violet.label:hover {
