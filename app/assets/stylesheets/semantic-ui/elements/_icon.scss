@@ -259,14 +259,14 @@ i.inverted.circular.yellow.icon {
 
 /* Olive */
 i.olive.icon {
-  color: #b5cc18 !important;
+  color: $olive !important;
 }
 i.inverted.olive.icon {
   color: #d9e778 !important;
 }
 i.inverted.bordered.olive.icon,
 i.inverted.circular.olive.icon {
-  background-color: #b5cc18 !important;
+  background-color: $olive !important;
   color: #ffffff !important;
 }
 

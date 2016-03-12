@@ -633,8 +633,8 @@ a.ui.basic.yellow.label:hover {
 
 .ui.olive.labels .label,
 .ui.olive.label {
-  background-color: #b5cc18 !important;
-  border-color: #b5cc18 !important;
+  background-color: $olive !important;
+  border-color: $olive !important;
   color: #ffffff !important;
 }
 
@@ -660,8 +660,8 @@ a.ui.olive.label:hover {
 /* Basic */
 .ui.basic.olive.label {
   background-color: #ffffff !important;
-  color: #b5cc18 !important;
-  border-color: #b5cc18 !important;
+  color: $olive !important;
+  border-color: $olive !important;
 }
 .ui.basic.olive.labels a.label:hover,
 a.ui.basic.olive.label:hover {
