@@ -233,14 +233,14 @@ i.inverted.circular.red.icon {
 
 /* Orange */
 i.orange.icon {
-  color: #f2711c !important;
+  color: $orange !important;
 }
 i.inverted.orange.icon {
   color: #ff851b !important;
 }
 i.inverted.bordered.orange.icon,
 i.inverted.circular.orange.icon {
-  background-color: #f2711c !important;
+  background-color: $orange !important;
   color: #ffffff !important;
 }
 

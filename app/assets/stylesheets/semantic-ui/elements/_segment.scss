@@ -512,10 +512,10 @@
 
 /* Orange */
 .ui.orange.segment:not(.inverted) {
-  border-top: 2px solid #f2711c;
+  border-top: 2px solid $orange;
 }
 .ui.inverted.orange.segment {
-  background-color: #f2711c !important;
+  background-color: $orange !important;
   color: #ffffff !important;
 }
 

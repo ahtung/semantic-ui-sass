@@ -614,10 +614,10 @@
 
 /* Orange */
 .ui.orange.table {
-  border-top: 0.2em solid #f2711c;
+  border-top: 0.2em solid $orange;
 }
 .ui.inverted.orange.table {
-  background-color: #f2711c !important;
+  background-color: $orange !important;
   color: #ffffff !important;
 }
 

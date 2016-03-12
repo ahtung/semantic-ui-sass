@@ -551,8 +551,8 @@ a.ui.basic.red.label:hover {
 
 .ui.orange.labels .label,
 .ui.orange.label {
-  background-color: #f2711c !important;
-  border-color: #f2711c !important;
+  background-color: $orange !important;
+  border-color: $orange !important;
   color: #ffffff !important;
 }
 
@@ -578,8 +578,8 @@ a.ui.orange.label:hover {
 /* Basic */
 .ui.basic.orange.label {
   background-color: #ffffff !important;
-  color: #f2711c !important;
-  border-color: #f2711c !important;
+  color: $orange !important;
+  border-color: $orange !important;
 }
 .ui.basic.orange.labels a.label:hover,
 a.ui.basic.orange.label:hover {
