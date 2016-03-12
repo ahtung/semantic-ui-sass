@@ -285,14 +285,14 @@ i.inverted.circular.green.icon {
 
 /* Teal */
 i.teal.icon {
-  color: #00b5ad !important;
+  color: $teal !important;
 }
 i.inverted.teal.icon {
   color: #6dffff !important;
 }
 i.inverted.bordered.teal.icon,
 i.inverted.circular.teal.icon {
-  background-color: #00b5ad !important;
+  background-color: $teal !important;
   color: #ffffff !important;
 }
 

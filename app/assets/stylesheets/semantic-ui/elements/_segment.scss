@@ -548,10 +548,10 @@
 
 /* Teal */
 .ui.teal.segment:not(.inverted) {
-  border-top: 2px solid #00b5ad;
+  border-top: 2px solid $teal;
 }
 .ui.inverted.teal.segment {
-  background-color: #00b5ad !important;
+  background-color: $teal !important;
   color: #ffffff !important;
 }
 

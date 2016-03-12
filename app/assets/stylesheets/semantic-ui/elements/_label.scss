@@ -715,8 +715,8 @@ a.ui.basic.green.label:hover {
 
 .ui.teal.labels .label,
 .ui.teal.label {
-  background-color: #00b5ad !important;
-  border-color: #00b5ad !important;
+  background-color: $teal !important;
+  border-color: $teal !important;
   color: #ffffff !important;
 }
 
@@ -742,8 +742,8 @@ a.ui.teal.label:hover {
 /* Basic */
 .ui.basic.teal.label {
   background-color: #ffffff !important;
-  color: #00b5ad !important;
-  border-color: #00b5ad !important;
+  color: $teal !important;
+  border-color: $teal !important;
 }
 .ui.basic.teal.labels a.label:hover,
 a.ui.basic.teal.label:hover {
