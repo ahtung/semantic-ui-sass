@@ -220,14 +220,14 @@ i.inverted.icon {
 
 /* Red */
 i.red.icon {
-  color: #db2828 !important;
+  color: $red !important;
 }
 i.inverted.red.icon {
   color: #ff695e !important;
 }
 i.inverted.bordered.red.icon,
 i.inverted.circular.red.icon {
-  background-color: #db2828 !important;
+  background-color: $red !important;
   color: #ffffff !important;
 }
 
@@ -2587,4 +2587,3 @@ i.icon.bed:before {
 /*******************************
          Site Overrides
 *******************************/
-

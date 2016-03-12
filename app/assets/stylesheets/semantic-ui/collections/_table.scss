@@ -177,7 +177,7 @@
   .ui.table:not(.unstackable) td:first-child {
     font-weight: bold;
   }
-  
+
 /* Definition Table */
   .ui.definition.table:not(.unstackable) thead th:first-child {
     box-shadow: none !important;
@@ -402,7 +402,7 @@
     padding: 0.25em 0.75em;
     box-shadow: none !important;
   }
-  
+
 /* Definition Table */
   .ui.definition[class*="tablet stackable"].table thead th:first-child {
     box-shadow: none !important;
@@ -605,10 +605,10 @@
 
 /* Red */
 .ui.red.table {
-  border-top: 0.2em solid #db2828;
+  border-top: 0.2em solid $red;
 }
 .ui.inverted.red.table {
-  background-color: #db2828 !important;
+  background-color: $red !important;
   color: #ffffff !important;
 }
 
@@ -1093,4 +1093,3 @@
 /*******************************
          Site Overrides
 *******************************/
-

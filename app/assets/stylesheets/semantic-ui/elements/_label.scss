@@ -510,8 +510,8 @@ a.ui.active.label:ActiveHover:before {
 
 .ui.red.labels .label,
 .ui.red.label {
-  background-color: #db2828 !important;
-  border-color: #db2828 !important;
+  background-color: $red !important;
+  border-color: $red !important;
   color: #ffffff !important;
 }
 
@@ -537,8 +537,8 @@ a.ui.red.label:hover {
 /* Basic */
 .ui.basic.red.label {
   background-color: #ffffff !important;
-  color: #db2828 !important;
-  border-color: #db2828 !important;
+  color: $red !important;
+  border-color: $red !important;
 }
 .ui.basic.red.labels a.label:hover,
 a.ui.basic.red.label:hover {
@@ -1311,4 +1311,3 @@ a.ui.basic.label:hover {
 /*******************************
          Site Overrides
 *******************************/
-

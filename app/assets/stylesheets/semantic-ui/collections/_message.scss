@@ -354,7 +354,7 @@
 }
 .ui.red.message {
   background-color: #ffe8e6;
-  color: #db2828;
+  color: $red;
 }
 .ui.red.message .header {
   color: #c82121;
@@ -460,4 +460,3 @@
 /*******************************
         Site Overrides
 *******************************/
-

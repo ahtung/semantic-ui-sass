@@ -368,7 +368,7 @@
   -webkit-flex: 1 1 auto;
           flex: 1 1 auto;
   -ms-flex: 1 1 0px;
-  
+
 /* Solves #2550 MS Flex */
   margin: 0em;
   min-width: 0px;
@@ -503,10 +503,10 @@
 
 /* Red */
 .ui.red.segment:not(.inverted) {
-  border-top: 2px solid #db2828;
+  border-top: 2px solid $red;
 }
 .ui.inverted.red.segment {
-  background-color: #db2828 !important;
+  background-color: $red !important;
   color: #ffffff !important;
 }
 
@@ -755,4 +755,3 @@
 /*******************************
          Site Overrides
 *******************************/
-

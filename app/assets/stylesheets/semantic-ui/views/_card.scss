@@ -492,7 +492,7 @@ a.ui.card:hover,
 .ui.red.cards > .card,
 .ui.cards > .red.card,
 .ui.red.card {
-  box-shadow: 0px 0px 0px 1px #d4d4d5, 0px 2px 0px 0px #db2828, 0px 1px 3px 0px #d4d4d5;
+  box-shadow: 0px 0px 0px 1px #d4d4d5, 0px 2px 0px 0px $red, 0px 1px 3px 0px #d4d4d5;
 }
 .ui.red.cards > .card:hover,
 .ui.cards > .red.card:hover,
@@ -952,4 +952,3 @@ a.ui.card:hover,
 /*******************************
     User Variable Overrides
 *******************************/
-
