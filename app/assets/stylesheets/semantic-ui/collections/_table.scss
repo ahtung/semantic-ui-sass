@@ -677,10 +677,10 @@
 
 /* Purple */
 .ui.purple.table {
-  border-top: 0.2em solid #a333c8;
+  border-top: 0.2em solid $purple;
 }
 .ui.inverted.purple.table {
-  background-color: #a333c8 !important;
+  background-color: $purple !important;
   color: #ffffff !important;
 }
 

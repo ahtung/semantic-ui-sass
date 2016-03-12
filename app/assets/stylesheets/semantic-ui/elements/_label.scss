@@ -838,8 +838,8 @@ a.ui.basic.violet.label:hover {
 
 .ui.purple.labels .label,
 .ui.purple.label {
-  background-color: #a333c8 !important;
-  border-color: #a333c8 !important;
+  background-color: $purple !important;
+  border-color: $purple !important;
   color: #ffffff !important;
 }
 
@@ -865,8 +865,8 @@ a.ui.purple.label:hover {
 /* Basic */
 .ui.basic.purple.label {
   background-color: #ffffff !important;
-  color: #a333c8 !important;
-  border-color: #a333c8 !important;
+  color: $purple !important;
+  border-color: $purple !important;
 }
 .ui.basic.purple.labels a.label:hover,
 a.ui.basic.purple.label:hover {
