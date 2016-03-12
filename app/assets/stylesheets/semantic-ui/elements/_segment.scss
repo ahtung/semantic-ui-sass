@@ -593,10 +593,10 @@
 
 /* Brown */
 .ui.brown.segment:not(.inverted) {
-  border-top: 2px solid #a5673f;
+  border-top: 2px solid $brown;
 }
 .ui.inverted.brown.segment {
-  background-color: #a5673f !important;
+  background-color: $brown !important;
   color: #ffffff !important;
 }
 

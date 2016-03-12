@@ -612,7 +612,7 @@ a.ui.card:hover,
 .ui.brown.cards > .card,
 .ui.cards > .brown.card,
 .ui.brown.card {
-  box-shadow: 0px 0px 0px 1px #d4d4d5, 0px 2px 0px 0px #a5673f, 0px 1px 3px 0px #d4d4d5;
+  box-shadow: 0px 0px 0px 1px #d4d4d5, 0px 2px 0px 0px $brown, 0px 1px 3px 0px #d4d4d5;
 }
 .ui.brown.cards > .card:hover,
 .ui.cards > .brown.card:hover,

@@ -1520,7 +1520,7 @@
 
 .ui.brown.buttons .button,
 .ui.brown.button {
-  background-color: #a5673f;
+  background-color: $brown;
   color: #ffffff;
   text-shadow: none;
   background-image: none;
@@ -1558,8 +1558,8 @@
 /* Basic */
 .ui.basic.brown.buttons .button,
 .ui.basic.brown.button {
-  box-shadow: 0px 0px 0px 1px #a5673f inset !important;
-  color: #a5673f !important;
+  box-shadow: 0px 0px 0px 1px $brown inset !important;
+  color: $brown !important;
 }
 .ui.basic.brown.buttons .button:hover,
 .ui.basic.brown.button:hover {

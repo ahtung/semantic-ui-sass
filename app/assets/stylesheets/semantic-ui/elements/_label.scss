@@ -920,8 +920,8 @@ a.ui.basic.pink.label:hover {
 
 .ui.brown.labels .label,
 .ui.brown.label {
-  background-color: #a5673f !important;
-  border-color: #a5673f !important;
+  background-color: $brown !important;
+  border-color: $brown !important;
   color: #ffffff !important;
 }
 
@@ -947,8 +947,8 @@ a.ui.brown.label:hover {
 /* Basic */
 .ui.basic.brown.label {
   background-color: #ffffff !important;
-  color: #a5673f !important;
-  border-color: #a5673f !important;
+  color: $brown !important;
+  border-color: $brown !important;
 }
 .ui.basic.brown.labels a.label:hover,
 a.ui.basic.brown.label:hover {
