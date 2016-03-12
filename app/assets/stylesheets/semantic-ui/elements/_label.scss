@@ -592,8 +592,8 @@ a.ui.basic.orange.label:hover {
 
 .ui.yellow.labels .label,
 .ui.yellow.label {
-  background-color: #fbbd08 !important;
-  border-color: #fbbd08 !important;
+  background-color: $yellow !important;
+  border-color: $yellow !important;
   color: #ffffff !important;
 }
 
@@ -619,8 +619,8 @@ a.ui.yellow.label:hover {
 /* Basic */
 .ui.basic.yellow.label {
   background-color: #ffffff !important;
-  color: #fbbd08 !important;
-  border-color: #fbbd08 !important;
+  color: $yellow !important;
+  border-color: $yellow !important;
 }
 .ui.basic.yellow.labels a.label:hover,
 a.ui.basic.yellow.label:hover {
