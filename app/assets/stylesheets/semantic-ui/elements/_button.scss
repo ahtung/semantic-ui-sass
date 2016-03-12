@@ -928,7 +928,7 @@
 .ui.toggle.buttons .active.button,
 .ui.buttons .button.toggle.active,
 .ui.button.toggle.active {
-  background-color: #21ba45 !important;
+  background-color: $green !important;
   box-shadow: none !important;
   text-shadow: none;
   color: #ffffff !important;
@@ -1800,7 +1800,7 @@
 
 .ui.green.buttons .button,
 .ui.green.button {
-  background-color: #21ba45;
+  background-color: $green;
   color: #ffffff;
   text-shadow: none;
   background-image: none;
@@ -1838,8 +1838,8 @@
 /* Basic */
 .ui.basic.green.buttons .button,
 .ui.basic.green.button {
-  box-shadow: 0px 0px 0px 1px #21ba45 inset !important;
-  color: #21ba45 !important;
+  box-shadow: 0px 0px 0px 1px $green inset !important;
+  color: $green !important;
 }
 .ui.basic.green.buttons .button:hover,
 .ui.basic.green.button:hover {
@@ -3140,7 +3140,7 @@
 
 .ui.positive.buttons .button,
 .ui.positive.button {
-  background-color: #21ba45 !important;
+  background-color: $green !important;
   color: #ffffff;
   text-shadow: none;
   background-image: none;

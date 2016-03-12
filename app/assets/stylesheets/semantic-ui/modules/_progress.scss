@@ -180,7 +180,7 @@
 ---------------*/
 
 .ui.progress.success .bar {
-  background-color: #21ba45 !important;
+  background-color: $green !important;
 }
 .ui.progress.success .bar,
 .ui.progress.success .bar::after {
@@ -302,7 +302,7 @@
   color: #ffffff;
 }
 .ui.inverted.progress.success > .label {
-  color: #21ba45;
+  color: $green;
 }
 .ui.inverted.progress.warning > .label {
   color: #f2c037;
@@ -399,7 +399,7 @@
 
 /* Green */
 .ui.green.progress .bar {
-  background-color: #21ba45;
+  background-color: $green;
 }
 .ui.green.inverted.progress .bar {
   background-color: #2ecc40;

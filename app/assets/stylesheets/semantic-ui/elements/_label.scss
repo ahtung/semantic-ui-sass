@@ -674,8 +674,8 @@ a.ui.basic.olive.label:hover {
 
 .ui.green.labels .label,
 .ui.green.label {
-  background-color: #21ba45 !important;
-  border-color: #21ba45 !important;
+  background-color: $green !important;
+  border-color: $green !important;
   color: #ffffff !important;
 }
 
@@ -701,8 +701,8 @@ a.ui.green.label:hover {
 /* Basic */
 .ui.basic.green.label {
   background-color: #ffffff !important;
-  color: #21ba45 !important;
-  border-color: #21ba45 !important;
+  color: $green !important;
+  border-color: $green !important;
 }
 .ui.basic.green.labels a.label:hover,
 a.ui.basic.green.label:hover {
