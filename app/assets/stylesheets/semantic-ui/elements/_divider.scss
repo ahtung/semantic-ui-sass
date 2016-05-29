@@ -8,6 +8,8 @@
  * http://opensource.org/licenses/MIT
  *
  */
+ 
+$margin: 0px;
 
 
 /*******************************
@@ -15,7 +17,7 @@
 *******************************/
 
 .ui.divider {
-  margin: 1rem 0rem;
+  margin: $margin 0rem;
   line-height: 1;
   height: 0em;
   font-weight: bold;
@@ -106,7 +108,7 @@
   border-left: 1px solid rgba(34, 36, 38, 0.15);
   border-right: 1px solid rgba(255, 255, 255, 0.1);
   width: 0%;
-  height: calc(100% -  1rem );
+  height: calc(100% -  $margin );
 }
 .ui.vertical.divider:before {
   top: -100%;
