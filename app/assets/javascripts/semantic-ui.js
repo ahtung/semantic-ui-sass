@@ -22,3 +22,4 @@
 //= require semantic-ui/tab
 //= require semantic-ui/transition
 //= require semantic-ui/video
+//= require semantic-ui/calendar
